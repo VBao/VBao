@@ -7,5 +7,4 @@
 - 📫 You can reach out to me on Telegram.
 - ⚡ Fun fact: Ask me anything! If I don't know about it, I'll spend the whole day researching it. I love learning new things! 🔬
 
-<a href="https://app.daily.dev/csvobao"><img src="https://api.daily.dev/devcards/c43d5c1a9d564c22a01cb100353e53c4.png?r=nql" width="400" alt="csvobao's Dev Card"/></a>
-
+<a href="https://app.daily.dev/csvobao"><img src="https://api.daily.dev/devcards/v2/sVjOHnDq2MLElzyOsitMZ.png?r=pjy&type=wide" width="652" alt="csvobao's Dev Card"/></a>
